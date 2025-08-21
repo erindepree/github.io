@@ -1,0 +1,17 @@
+# Jekyll-specific
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# Node.js dependencies (if applicable)
+node_modules/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
